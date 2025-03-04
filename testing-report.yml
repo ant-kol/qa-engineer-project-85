@@ -12,11 +12,11 @@
   status: pass
 
 - summary: |
-    Проверка входа пользователя с данными профиля Github
+    Проверка авторизации через GitHub
   status: pass
 
 - summary: |
-    Проверка входа пользователя с данными профиля Discord
+    Проверка авторизации через Discord
   status: fail
 
 - summary: |
@@ -36,7 +36,7 @@
   status: pass
 
 - summary: |
-    Проверка возможности просмотра открытого исходного кода игры
+    Проверка перехода в репозиторий Codebattle
   status: pass
 
 - summary: |
